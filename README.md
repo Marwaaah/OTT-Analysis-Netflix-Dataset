@@ -1,7 +1,17 @@
 ![logo](https://github.com/Marwaaah/OTT-Analysis-Netflix-Dataset/assets/68570897/b48a0312-0542-4521-b988-04b6c5b9c5ba)
 
+## About Dataset
+The dataset includes:
+
+Show_Id	Category, Title	Director,	Cast,	Country,	Release_Date,	Rating,	Duration,	Type,	Description	Number,	Unit
+
+## This repository contains:
+
+1. The commands that we used in this project
+
+2. The questions i answered it
 ## Data Analysis Using Python
-### The commands that we used in this project :
+### 1.The commands that we used in this project :
 
 | #1 | #2 | #3 |
 | :---         |     :---:      |          ---: |
@@ -12,7 +22,7 @@
 | str.split()     | to_datetime()      | dt.year      |
 | groupby()     | max()      | min()      |
 
-### here its the questions i answered it:
+### 2.Here its the questions i answered it:
 Q. 1) For 'House of Cards', what is the Show Id and Who is the Director of this show ?
 
 Q. 2) In which year the highest number of the TV Shows & Movies were released ?
